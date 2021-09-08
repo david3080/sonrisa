@@ -523,7 +523,8 @@
               "line-height": "1"
             },
             ".mbr-section-title": {
-              "margin-bottom": "2rem"
+              "margin-bottom": "2rem",
+              "text-align": "right"
             },
             ".mbr-text": {
               "margin-bottom": "2rem"
@@ -785,7 +786,8 @@
               "font-weight": "600"
             },
             ".mbr-section-title": {
-              "color": "@secondaryColor"
+              "color": "@secondaryColor",
+              "text-align": "left"
             },
             ".mbr-item-subtitle": {
               "margin-top": "15px",
@@ -1109,6 +1111,12 @@
             },
             ".features-image": {
               "margin-bottom": "50px"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            },
+            ".mbr-text": {
+              "text-align": "left"
             }
           },
           "_name": "clients1",
